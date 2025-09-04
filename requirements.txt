@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+mcp-sdk  # 根據實際來源指定版本
+requests
